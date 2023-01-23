@@ -6,6 +6,7 @@ body {
   display: flex;
   flex-direction: column;
   margin: 20px 50px 20px 50px;
+  max-width: 1920px;
 }
 
 #header {
