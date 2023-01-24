@@ -158,6 +158,54 @@ a:visited {
   z-index: 0;
 }
 
+.fancy-background-devops {
+  position: absolute;
+  background: #8415ff;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  width: 22px;
+  height: 38px;
+  left: 560px;
+  top: 130px;
+  z-index: 0;
+}
+
+.fancy-background-fullstack {
+  position: absolute;
+  background: #fd4dc7;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  width: 22px;
+  height: 38px;
+  left: 794px;
+  top: 130px;
+  z-index: 0;
+}
+
+.fancy-background-analityk {
+  position: absolute;
+  background: #ff8227;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  width: 22px;
+  height: 38px;
+  left: 1028px;
+  top: 130px;
+  z-index: 0;
+}
+
+.fancy-background-tester {
+  position: absolute;
+  background: #fdff00;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  width: 22px;
+  height: 38px;
+  left: 1261px;
+  top: 130px;
+  z-index: 0;
+}
+
 .spec-button {
   display: flex;
   justify-content: space-evenly;
