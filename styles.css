@@ -446,7 +446,7 @@ a:last-of-type {
   flex-direction: column;
 }
 
-#ruby {
+.tech-offer-containers {
   position: relative;
   border: 1px solid #222426;
   border-radius: 10px;
@@ -485,7 +485,7 @@ a:last-of-type {
   left: 1400px;
 }
 
-.quick-apply-ruby1 {
+.quick-apply {
   position: absolute;
   left: 1480px;
   display: flex;
@@ -503,7 +503,7 @@ a:last-of-type {
   top: 10px;
 }
 
-.bottom-info-ruby {
+.bottom-info {
   position: absolute;
   display: flex;
   align-items: center;
@@ -519,12 +519,23 @@ a:last-of-type {
   left: 1207px;
 }
 
+.cool-logo2 {
+  position: relative;
+  top: 2px;
+}
+
+.mid-bold {
+  color: #490df4;
+}
+
+/*vertical dividers row#1, row#2, row#3, row#4*/
+
 .vlr1 {
   position: absolute;
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 105px;
+  left: 95px;
 }
 
 .vlr12 {
@@ -532,7 +543,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 260px;
+  left: 245px;
 }
 
 .vlr13 {
@@ -540,14 +551,81 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 307px;
+  left: 295px;
 }
 
-#cool-logo2-ruby {
-  position: relative;
-  top: 2px;
+.vlr2 {
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  border: 1px solid #b5bdc7;
+  left: 95px;
 }
 
-.mid-bold {
-  color: #490df4;
+.vlr22 {
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  border: 1px solid #b5bdc7;
+  left: 250px;
+}
+
+.vlr23 {
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  border: 1px solid #b5bdc7;
+  left: 300px;
+}
+
+.vlr3 {
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  border: 1px solid #b5bdc7;
+  left: 95px;
+}
+
+.vlr32 {
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  border: 1px solid #b5bdc7;
+  left: 245px;
+}
+
+.vlr33 {
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  border: 1px solid #b5bdc7;
+  left: 295px;
+}
+
+.vlr4 {
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  border: 1px solid #b5bdc7;
+  left: 95px;
+}
+
+.vlr42 {
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  border: 1px solid #b5bdc7;
+  left: 235px;
+}
+
+.vlr43 {
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  border: 1px solid #b5bdc7;
+  left: 285px;
+}
+
+div span {
+  font-weight: 200;
 }
