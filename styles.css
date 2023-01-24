@@ -134,6 +134,30 @@ a:visited {
   margin-bottom: 25px;
 }
 
+.fancy-background-frontend {
+  position: absolute;
+  background: #31e8ff;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  width: 22px;
+  height: 38px;
+  left: 95px;
+  top: 130px;
+  z-index: 0;
+}
+
+.fancy-background-architekt {
+  position: absolute;
+  background: #00ff93;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  width: 22px;
+  height: 38px;
+  left: 328px;
+  top: 130px;
+  z-index: 0;
+}
+
 .spec-button {
   display: flex;
   justify-content: space-evenly;
@@ -145,6 +169,7 @@ a:visited {
   border-radius: 10px;
   color: #fff;
   font-weight: 200;
+  z-index: 1;
 }
 
 .more-filters {
