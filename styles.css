@@ -390,6 +390,8 @@ a:last-of-type {
 .price {
   position: absolute;
   left: 1140px;
+  color: #490df4;
+  font-weight: 700;
 }
 
 .heart-logo {
