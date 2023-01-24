@@ -68,6 +68,12 @@ a:visited {
   text-decoration: none;
 }
 
+#policy-a {
+  text-decoration: none;
+  font-weight: 500;
+  color: black;
+}
+
 #job-and-sign {
   display: flex;
   position: relative;
@@ -360,6 +366,13 @@ a:last-of-type {
   right: 1px;
 }
 
+.offers {
+  display: flex;
+  position: relative;
+  gap: 20px;
+  flex-direction: column;
+}
+
 #ruby {
   position: relative;
   border: 1px solid #222426;
@@ -419,6 +432,49 @@ a:last-of-type {
 
 .bottom-info-ruby {
   position: absolute;
+  display: flex;
+  align-items: center;
   left: 170px;
   top: 50px;
+  gap: 20px;
+}
+
+.extra-info {
+  display: flex;
+  gap: 30px;
+  position: absolute;
+  left: 1207px;
+}
+
+.vlr1 {
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  border: 1px solid #b5bdc7;
+  left: 105px;
+}
+
+.vlr12 {
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  border: 1px solid #b5bdc7;
+  left: 260px;
+}
+
+.vlr13 {
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  border: 1px solid #b5bdc7;
+  left: 307px;
+}
+
+#cool-logo2-ruby {
+  position: relative;
+  top: 2px;
+}
+
+.mid-bold {
+  color: #490df4;
 }
