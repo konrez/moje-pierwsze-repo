@@ -407,7 +407,7 @@ a:visited {
 
 .sort-span {
   position: relative;
-  right: 65px;
+  right: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -462,7 +462,7 @@ a:last-of-type {
   border-radius: 10px;
   width: 42px;
   height: 90px;
-  left: -5px;
+  left: -4px;
   top: 4px;
   z-index: -1;
 }
@@ -474,7 +474,7 @@ a:last-of-type {
   border-radius: 10px;
   width: 42px;
   height: 90px;
-  left: -5px;
+  left: -4px;
   top: 120px;
   z-index: -1;
 }
@@ -486,7 +486,7 @@ a:last-of-type {
   border-radius: 10px;
   width: 42px;
   height: 90px;
-  left: -5px;
+  left: -4px;
   top: 236px;
   z-index: -1;
 }
@@ -498,7 +498,7 @@ a:last-of-type {
   border-radius: 10px;
   width: 42px;
   height: 90px;
-  left: -5px;
+  left: -4px;
   top: 352px;
   z-index: -1;
 }
@@ -524,7 +524,7 @@ a:last-of-type {
 
 .price {
   position: absolute;
-  left: 1140px;
+  left: 1166px;
   color: #490df4;
   font-weight: 700;
 }
@@ -556,16 +556,17 @@ a:last-of-type {
   position: absolute;
   display: flex;
   align-items: center;
-  left: 170px;
+  left: 203px;
   top: 50px;
   gap: 20px;
+  font-size: 13px;
 }
 
 .extra-info {
   display: flex;
   gap: 30px;
   position: absolute;
-  left: 1207px;
+  left: 1187px;
 }
 
 .cool-logo2 {
@@ -584,7 +585,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 95px;
+  left: 80px;
 }
 
 .vlr12 {
@@ -592,7 +593,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 245px;
+  left: 205px;
 }
 
 .vlr13 {
@@ -600,7 +601,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 295px;
+  left: 250px;
 }
 
 .vlr2 {
@@ -608,7 +609,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 95px;
+  left: 80px;
 }
 
 .vlr22 {
@@ -616,7 +617,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 250px;
+  left: 210px;
 }
 
 .vlr23 {
@@ -624,7 +625,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 300px;
+  left: 253px;
 }
 
 .vlr3 {
@@ -632,7 +633,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 95px;
+  left: 80px;
 }
 
 .vlr32 {
@@ -640,7 +641,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 245px;
+  left: 205px;
 }
 
 .vlr33 {
@@ -648,7 +649,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 295px;
+  left: 250px;
 }
 
 .vlr4 {
@@ -656,7 +657,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 95px;
+  left: 80px;
 }
 
 .vlr42 {
@@ -664,7 +665,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 235px;
+  left: 200px;
 }
 
 .vlr43 {
@@ -672,7 +673,7 @@ a:last-of-type {
   width: 0px;
   height: 15px;
   border: 1px solid #b5bdc7;
-  left: 285px;
+  left: 245px;
 }
 
 div span {
